@@ -1,0 +1,12 @@
+h1, h2, h3, h4, h5, h6, p, label{
+	color:#fff;
+}
+body{
+	background:#333;
+}
+.alert-success h3{
+	color:#3c763d;
+}
+.alert-info h3{
+	color:#31708f;
+}
